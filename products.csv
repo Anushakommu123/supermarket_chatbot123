@@ -1,0 +1,55 @@
+product_id,product_name,category,price,stock,discount,unit
+101,Milk,Dairy,30,50,0,500 ml
+102,Butter,Dairy,60,0,0,100 g
+103,Curd,Dairy,45,35,5,400 g
+104,Cheese,Dairy,120,20,10,200 g
+105,Rice,Groceries,100,40,10,1 kg
+106,Sugar,Groceries,45,80,0,1 kg
+107,Wheat Flour,Groceries,60,50,5,1 kg
+108,Cooking Oil,Groceries,150,30,15,1 litre
+109,Apple,Fruits,120,0,0,1 kg
+110,Banana,Fruits,50,40,10,1 dozen
+111,Orange,Fruits,80,25,0,1 kg
+112,Grapes,Fruits,90,20,5,500 g
+113,Potato,Vegetables,35,70,0,1 kg
+114,Tomato,Vegetables,40,0,0,1 kg
+115,Onion,Vegetables,30,65,0,1 kg
+116,Carrot,Vegetables,50,30,10,1 kg
+117,Chips,Snacks,20,40,0,50 g
+118,Biscuits,Snacks,50,30,20,200 g
+119,Chocolate,Snacks,100,25,15,100 g
+120,Popcorn,Snacks,60,0,10,100 g
+121,Orange Juice,Beverages,90,25,10,1 litre
+122,Water Bottle,Beverages,20,100,0,1 litre
+123,Soft Drink,Beverages,40,35,5,750 ml
+124,Coffee,Beverages,150,20,10,200 g
+125,Soap,Personal Care,45,50,0,100 g
+126,Shampoo,Personal Care,200,20,15,400 ml
+127,Toothpaste,Personal Care,90,30,10,150 g
+128,Face Wash,Personal Care,180,0,0,100 ml
+129,Detergent,Household,250,40,20,1 kg
+130,Dishwash Liquid,Household,100,25,10,500 ml
+131,Mango,Fruits,150,15,5,1 kg
+132,Papaya,Fruits,60,18,0,1 kg
+133,Pineapple,Fruits,80,12,10,1 piece
+134,Spinach,Vegetables,25,20,0,1 bunch
+135,Cabbage,Vegetables,40,15,5,1 kg
+136,Cauliflower,Vegetables,55,0,10,1 piece
+137,Paneer,Dairy,95,22,5,200 g
+138,Yogurt,Dairy,40,18,0,100 g
+139,Ghee,Dairy,320,12,10,500 ml
+140,Salt,Groceries,25,60,0,1 kg
+141,Toor Dal,Groceries,160,25,5,1 kg
+142,Tea,Groceries,140,32,10,250 g
+143,Oats,Groceries,180,20,0,500 g
+144,Peanuts,Snacks,60,24,5,200 g
+145,Cookies,Snacks,80,30,10,200 g
+146,Namkeen,Snacks,55,25,0,200 g
+147,Apple Juice,Beverages,110,16,5,1 litre
+148,Coconut Water,Beverages,45,0,10,200 ml
+149,Lemonade,Beverages,35,30,0,250 ml
+150,Hand Wash,Personal Care,85,25,10,250 ml
+151,Body Lotion,Personal Care,220,15,0,200 ml
+152,Tissues,Household,70,40,5,100 sheets
+153,Floor Cleaner,Household,180,20,10,1 litre
+154,Garbage Bags,Household,90,30,0,30 bags
